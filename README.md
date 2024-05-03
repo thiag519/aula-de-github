@@ -1,4 +1,4 @@
 # lojavirtual
 
 Texto alterado no repositorio local
-update README in github web.
+update README in github web (2)
